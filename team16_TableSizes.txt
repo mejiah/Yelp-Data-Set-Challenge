@@ -1,0 +1,9 @@
+userTable = 192199
+friendsTable = 1052706
+reviewTable = 416479
+businessTable = 11481
+checkinTable = 67407
+categoriesTable = 33619
+distinct categories in categoriesTable = 226
+businessTimesTable = 55502
+attributesTable = 227536
